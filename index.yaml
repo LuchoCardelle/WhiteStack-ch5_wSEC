@@ -3,12 +3,12 @@ entries:
   ch5:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-04T02:34:41.156452128Z"
+    created: "2024-09-04T04:49:44.029576818Z"
     description: A Helm chart for Kubernetes
-    digest: 5fc41537ae0080df280351a3f3daab4e4dcaddc69b6d96fbb105596a913dc8e9
+    digest: 752d794693d265ac7b9f1ae4068624d9b97cd1a5d021e225dbf49e66066b7c29
     name: ch5
     type: application
     urls:
     - chart/ch5-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-04T02:34:41.155890594Z"
+generated: "2024-09-04T04:49:44.029051249Z"
